@@ -1,3 +1,12 @@
+// here I used the arithmetic progression formula.
+// S(n) = (2a + d * (n - 1)) * n / 2
+// where n is a number of members of the sum.
+// a is a first number of the sum.
+// d is a step of the arithmetic progression.
+// a and d are the same.
+// This means that the formula can be shortened.
+// S(n) = d * (n + 1) * n / 2
+
 #include <iostream>
 #include <cmath>
 
